@@ -1,8 +1,7 @@
 ---
 name: "VanillaPuro"
-url: "VanillaPuro"
+url: "vanillapuro"
 hidden: false
-only-premium: false
 versions:
 - "1.16.5"
 categories:
